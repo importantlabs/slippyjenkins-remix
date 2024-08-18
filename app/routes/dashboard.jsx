@@ -2,7 +2,7 @@ import {Link} from "@remix-run/react";
 
 export default function Dashboard() {
   return (
-    <div className="rainbow-box text-white px-5 pt-5 font-thin overflow-scroll">
+    <div className="rainbow-box text-white px-5 pt-5 font-thin ">
       <h1 className="text-5xl underline underline-offset-8 decoration-pink-600 mb-10">
         SOCIALS
       </h1>
