@@ -34,8 +34,8 @@ export default function Index() {
         <Link
           to="/dashboard"
           className="font-mono text-3xl opacity-50 mt-2 block border-2 py-1 px-3
-            border-pink-600/40 text-center -rotate-2 hover:text-white">
-          Dashboard 0.2 on Remix
+            border-pink-600/90 hover:border-white text-center -rotate-2 hover:text-white">
+          LINKS LINKS LINKS!
         </Link>
       </div>
     </div>
