@@ -11,7 +11,9 @@ export default function Dashboard() {
           <Link
             className=""
             to="https://www.twitter.com/slippy">
-            <h2 className="text-3xl font-mono">Twitter/X</h2>
+            <h2 className="text-3xl font-mono hover:text-yellow-300">
+              Twitter/X
+            </h2>
           </Link>
           <span className="text-xl block font-mono my-auto  text-pink-600">
             @SLIPPY
@@ -21,7 +23,7 @@ export default function Dashboard() {
           <Link
             className=""
             to="https://www.instagram.com/slippy">
-            <h2 className="text-3xl">Instagram</h2>
+            <h2 className="text-3xl hover:text-yellow-300">Instagram</h2>
           </Link>
           <span className="text-xl block my-auto  text-pink-600">@SLIPPY</span>
         </div>
@@ -35,7 +37,7 @@ export default function Dashboard() {
             <Link
               className=""
               to="https://www.importantlabs.com">
-              <h2 className="text-3xl font-mono">
+              <h2 className="text-3xl font-mono hover:text-yellow-300">
                 Shopify Partner & Developer
               </h2>
             </Link>
@@ -55,7 +57,9 @@ export default function Dashboard() {
             <Link
               className=""
               to="https://www.youtube.com/@LiquidGenerationTube">
-              <h2 className="text-3xl font-mono">LiquidGeneration</h2>
+              <h2 className="text-3xl font-mono hover:text-yellow-300">
+                LiquidGeneration
+              </h2>
             </Link>
             <span className="text-xl block font-mono my-auto  text-pink-600">
               2000s era Flash animation & games site, popular for making fun of
