@@ -21,7 +21,7 @@ export default function Index() {
     via-red-500
     to-yellow-500
     background-animate h-screen w-full flex items-center justify-center">
-      <div className="sm:text-xl md:text-5xl text-center">
+      <div className="text-4xl md:text-7xl lg:text-8xl text-center ">
         <h1 className="uppercase font-mono -rotate-2 font-semibold text-yellow-300/20">
           slippy jenkins
         </h1>
