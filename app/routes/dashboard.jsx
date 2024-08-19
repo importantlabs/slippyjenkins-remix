@@ -70,7 +70,7 @@ export default function Dashboard() {
         </div>
       </div>
       <Link to="/">
-        <span className="border-2 border-pink-600 hover:border-yellow-400 p-8 block my-3 text-[6vw] text-center font-bold leading-10 hover:bg-yellow-400 2xl:text-[150px] 2xl:p-14 hover:text-pink-600">
+        <span className="border-2 border-pink-600 hover:border-yellow-400 p-8 block my-3 text-[6vw] text-center font-bold leading-10 hover:bg-yellow-400 2xl:text-[120px] 2xl:p-14 hover:text-pink-600">
           BACKBACKBACKBACK
         </span>
       </Link>
